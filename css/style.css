@@ -58,3 +58,21 @@ font-size: 30px;
 text-align: center;
 
 }
+
+/* style for form page */
+
+.form-row{
+	height: 800px;
+}
+
+.posterTitle{
+	font-size: 55px;
+}
+
+.poster{
+	width: 100%;
+}
+
+.form-field{
+	width: 40%;
+}
