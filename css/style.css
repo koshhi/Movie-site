@@ -33,3 +33,28 @@
 .footer-inner{
 	height: 200px;
 }
+
+
+
+/* style for tech specs */
+
+.heading-container {
+
+}
+ 
+.heading-row {
+ height: 250px;
+}  
+
+h1{
+font-family: 'Passion One';
+font-size: 60px;
+text-align: center;
+}
+
+h2 {
+font-family: 'Roboto Slab';
+font-size: 30px;
+text-align: center;
+
+}
