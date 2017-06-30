@@ -1,11 +1,9 @@
-.container-fluid{
-	background-color: yellow;
-}
 
 
 
 .main-menu{
-	
+	background-color: yellow;
+
 }
 
 .videoContainer{
@@ -16,4 +14,22 @@
 
 .container{
 	background-color: black;
+}
+
+.button-row{
+	height: 200px;
+}
+
+.button-container{
+	background-color: blue;
+
+}
+
+
+.button-inner{
+	margin: 0 auto;
+}
+
+.footer-inner{
+	height: 200px;
 }
